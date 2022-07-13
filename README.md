@@ -7,6 +7,10 @@ I am a Senior Frontend Engineer from the 🇬🇧 working at Moonpig on the Desi
 ## My Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI Charts in iOS 16](https://www.swiftforjs.dev/blog/swiftui-charts-wwdc-2022)
+- [Why React Native Has Split Opinions](https://www.swiftforjs.dev/blog/why-react-native-split-opinions)
+- [The New Transferable Protocol In Swift](https://www.swiftforjs.dev/blog/transferable-protocol)
+- [SwiftUI 4 New Navigation API](https://www.swiftforjs.dev/blog/swiftui-4-new-navigation-api)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect
