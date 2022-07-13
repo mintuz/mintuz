@@ -11,6 +11,7 @@ I am a Senior Frontend Engineer from the 🇬🇧 working at Moonpig on the Desi
 - [Why React Native Has Split Opinions](https://www.swiftforjs.dev/blog/why-react-native-split-opinions)
 - [The New Transferable Protocol In Swift](https://www.swiftforjs.dev/blog/transferable-protocol)
 - [SwiftUI 4 New Navigation API](https://www.swiftforjs.dev/blog/swiftui-4-new-navigation-api)
+- [Physical Debt](https://mintuz.com/blog/physical-debt)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect
