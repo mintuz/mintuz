@@ -7,11 +7,11 @@ I am a Senior Frontend Engineer from the 🇬🇧 working at Moonpig on the Desi
 ## My Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Physical Debt](https://mintuz.com/blog/physical-debt)
-- [Composable React Components](https://mintuz.com/blog/composable-react-components)
-- [React Europe Conf 2016](https://mintuz.com/blog/react-europe-2016)
-- [Dealing with a long commute](https://mintuz.com/blog/dealing-with-a-long-commute)
-- [A developers view on the Apple Watch](https://mintuz.com/blog/developers-view-on-apple-watch)
+- [How to Use Hot Module Reloading in Swift](https://www.swiftforjs.dev/blog/hot-module-reloading-in-swift)
+- [SwiftUI Charts in iOS 16](https://www.swiftforjs.dev/blog/swiftui-charts-wwdc-2022)
+- [Why React Native Has Split Opinions](https://www.swiftforjs.dev/blog/why-react-native-split-opinions)
+- [The New Transferable Protocol In Swift](https://www.swiftforjs.dev/blog/transferable-protocol)
+- [SwiftUI 4 New Navigation API](https://www.swiftforjs.dev/blog/swiftui-4-new-navigation-api)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect
