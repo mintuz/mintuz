@@ -1,6 +1,6 @@
 # Hello 👋 I'm Adam Bulmer. I have been building user interfaces since 2012
 
-I am a Senior Frontend Engineer from the 🇬🇧 working at Moonpig on the Design System Team.
+I am a Senior Frontend Engineer from the 🇬🇧 working at Monzo on the Customer Acquisition team.
 
 [![Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=mintuz&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
