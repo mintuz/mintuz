@@ -9,9 +9,9 @@ I am a Senior Frontend Engineer from the 🇬🇧 working at Monzo on the Custom
 <!-- BLOG-POST-LIST:START -->
 - [Is async await a replacement for Combine](https://www.swiftforjs.dev/blog/async-await-replacement-combine)
 - [How To Use style-dictionary to manage colours in SwiftUI](https://www.swiftforjs.dev/blog/style-dictionary-colours-swiftui)
-- [Configuring AWS Amplify with Terraform](https://mintuz.com/blog/configuring-amplify-with-terraform)
 - [How to Use Hot Module Reloading in Swift](https://www.swiftforjs.dev/blog/hot-module-reloading-in-swift)
 - [SwiftUI Charts in iOS 16](https://www.swiftforjs.dev/blog/swiftui-charts-wwdc-2022)
+- [Why React Native Has Split Opinions](https://www.swiftforjs.dev/blog/why-react-native-split-opinions)
 <!-- BLOG-POST-LIST:END -->
 
 ## Let's connect
