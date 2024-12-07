@@ -25,3 +25,4 @@ I am a Senior Frontend Engineer from the 🇬🇧 working at Monzo on the Custom
 [![Swift for JavaScript Developers Course](https://img.shields.io/badge/Online%20Course-swiftforjs.dev-%23DB2877)](https://swiftforjs.dev)
 [![Workout Plan App](https://img.shields.io/badge/App-workoutplan.app-%234c35ca)](https://workoutplan.app)
 [![Personal Inventory App](https://img.shields.io/badge/App-belongings.app-%231d71ec)](https://belongings.app)
+[![Free Baby Sleep Tracker App](https://img.shields.io/badge/App-wakewise.app-%231d71ec)](https://wakewise.app)
